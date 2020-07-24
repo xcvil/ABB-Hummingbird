@@ -1,0 +1,14 @@
+/home/xiaochenzheng/data/GAUGE/GAUGE2019/JPEGImages/0000095.jpg 316,396,559,636,0 546,35,1000,494,0 
+/home/xiaochenzheng/data/GAUGE/GAUGE2019/JPEGImages/0000233.jpg 765,186,1098,518,0 1141,604,1467,903,0 128,157,328,383,0 228,674,388,871,0 
+/home/xiaochenzheng/data/GAUGE/GAUGE2019/JPEGImages/0000104.jpg 31,133,530,619,0 562,139,1040,617,0 
+/home/xiaochenzheng/data/GAUGE/GAUGE2019/JPEGImages/0000086.jpg 239,125,568,473,0 
+/home/xiaochenzheng/data/GAUGE/GAUGE2019/JPEGImages/0000166.jpg 668,372,978,687,0 
+/home/xiaochenzheng/data/GAUGE/GAUGE2019/JPEGImages/0000189.jpg 148,269,432,563,0 547,305,791,544,0 846,568,1090,817,0 
+/home/xiaochenzheng/data/GAUGE/GAUGE2019/JPEGImages/0000096.jpg 52,180,657,772,0 
+/home/xiaochenzheng/data/GAUGE/GAUGE2019/JPEGImages/0000246.jpg 910,462,2421,1995,0 
+/home/xiaochenzheng/data/GAUGE/GAUGE2019/JPEGImages/0000230.jpg 144,74,235,158,0 
+/home/xiaochenzheng/data/GAUGE/GAUGE2019/JPEGImages/0000229.jpg 376,215,654,481,0 
+/home/xiaochenzheng/data/GAUGE/GAUGE2019/JPEGImages/0000181.jpg 428,893,492,957,0 634,134,723,231,0 
+/home/xiaochenzheng/data/GAUGE/GAUGE2019/JPEGImages/0000056.jpg 1,40,384,434,0 
+/home/xiaochenzheng/data/GAUGE/GAUGE2019/JPEGImages/0000221.jpg 1,63,309,376,0 437,80,735,386,0 
+/home/xiaochenzheng/data/GAUGE/GAUGE2019/JPEGImages/0000054.jpg 167,1045,2050,2815,0 
